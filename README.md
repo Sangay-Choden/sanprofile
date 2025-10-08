@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌟 SanProfile
+
+SanProfile is a personal portfolio and profile showcase web application built using **Next.js** and **Tailwind CSS**.  
+It’s designed to highlight your professional background, skills, and projects with a modern, responsive interface.
+
+---
+
+## 🚀 Features
+- ⚡ Built with Next.js for fast rendering  
+- 🎨 Styled using Tailwind CSS  
+- 🧩 Modular component structure  
+- 🌐 Ready for deployment on Vercel or Netlify  
+- 📱 Fully responsive design
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/sanprofile.git
+
 
 ## Getting Started
 
